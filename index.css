@@ -1,0 +1,22 @@
+html, body {
+    height:  100%;
+    margin:  0px auto;
+    padding: 0px auto;
+}
+#gameContainer{
+    margin-top:0.2%;
+    height: auto;
+    border:solid black 1px;
+    /*transform: rotate(90deg);*/
+}
+#myCanvas{
+    border:solid black 1px;
+    max-height: 100%;
+    width: auto;
+}
+#resetBall{
+   background-color:red;
+   border:solid 2px black;
+   border-radius:50%;
+   font-size:15px;
+}
